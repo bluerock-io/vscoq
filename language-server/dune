@@ -4,8 +4,8 @@
 (env
  (dev
   (flags :standard -w -9 -warn-error -A))
- (fatalwarnings     
+ (fatalwarnings
   (flags :standard -w -9 -warn-error +A))
- (release     
+ (release
   (flags :standard -w -9))
 )
