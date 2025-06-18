@@ -6,6 +6,8 @@
   (flags :standard -w -9 -warn-error -A))
  (fatalwarnings
   (flags :standard -w -9 -warn-error +A))
+ (br_timing
+  (flags :standard -w -9))
  (release
   (flags :standard -w -9))
 )
